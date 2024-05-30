@@ -1,0 +1,47 @@
+[
+    {
+        "question": "hello",
+        "response": "Hello! What's your name?",
+        "timestamp": "2024-05-30 11:17:58"
+    },
+    {
+        "question": "harsh",
+        "response": "Nice to meet you, harsh! Which program are you applying for?",
+        "timestamp": "2024-05-30 11:18:02"
+    },
+    {
+        "question": "Engineer",
+        "response": "Got it, you're applying for the Engineer program. How can I assist you with your application?",
+        "timestamp": "2024-05-30 11:19:45"
+    },
+    {
+        "question": "fees",
+        "response": "I'm sorry, I don't have enough information to answer that question. Could you please rephrase or provide more details?",
+        "timestamp": "2024-05-30 11:19:52"
+    },
+    {
+        "question": "application deadline",
+        "response": "The application deadline is December 1st for regular decision.",
+        "timestamp": "2024-05-30 11:20:12"
+    },
+    {
+        "question": "admission requiremnt",
+        "response": "I'm sorry, I don't have enough information to answer that question. Could you please rephrase or provide more details?",
+        "timestamp": "2024-05-30 11:20:23"
+    },
+    {
+        "question": "admission requirements",
+        "response": "The requirements vary depending on your program of interest, but generally include transcripts, test scores, essays, and letters of recommendation. You can find more specific details on the college website.",
+        "timestamp": "2024-05-30 11:20:40"
+    },
+    {
+        "question": "thank you",
+        "response": "I'm sorry, I don't have enough information to answer that question. Could you please rephrase or provide more details?",
+        "timestamp": "2024-05-30 11:20:54"
+    },
+    {
+        "question": "bye",
+        "response": "I'm sorry, I don't have enough information to answer that question. Could you please rephrase or provide more details?",
+        "timestamp": "2024-05-30 11:20:57"
+    }
+]
